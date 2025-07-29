@@ -9,7 +9,6 @@ This project was originally written as a [Medium blog post](https://malinian.med
 ## Requirements
 
 To run this notebook on Google Colab:
-```python
 !pip install earthengine-api geemap --quiet
 
 If running locally, install the packages via:
