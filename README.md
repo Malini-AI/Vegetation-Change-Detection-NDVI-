@@ -1,4 +1,4 @@
-# Vegetation-Change-Detection-NDVI-
+# Vegetation-Change-Detection-NDVI
 
 A simple, visual, and beginner-friendly project to detect deforestation using NDVI (Normalized Difference Vegetation Index) and Landsat satellite data via Google Earth Engine. This notebook compares vegetation health in Rondônia, Brazil (Amazon Rainforest) between 2014 and 2022.
 
