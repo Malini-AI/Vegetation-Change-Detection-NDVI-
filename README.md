@@ -2,7 +2,7 @@
 
 A simple, visual, and beginner-friendly project to detect deforestation using NDVI (Normalized Difference Vegetation Index) and Landsat satellite data via Google Earth Engine. This notebook compares vegetation health in Rondônia, Brazil (Amazon Rainforest) between 2014 and 2022.
 
-This project was originally written as a [Medium blog post](https://medium.com/@malinian) — feel free to read the full explanation there!
+This project was originally written as a [Medium blog post]([https://medium.com/@malinian](https://malinian.medium.com/detecting-deforestation-with-python-using-ndvi-a-satellite-powered-exploration-ba4c65164713)) — feel free to read the full explanation there!
 
 ---
 
